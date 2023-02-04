@@ -1,0 +1,110 @@
+.left_dot
+{
+    height: 0.4em;
+    width: 0.4em;
+    background-color: #000000;
+    border-radius: 50%;
+    margin-left: -0.97em;
+    margin-top: -0.15em;
+}
+.right_dot
+{
+    height: 0.4em;
+    width: 0.4em;
+    background-color: #000000;
+    border-radius: 50%;
+    margin-left:7.2em;
+}
+.bottom_dot
+{
+    height: 0.4em;
+    width: 0.4em;
+    background-color: #000000;
+    border-radius: 50%;
+    margin-top:3.5em;
+    margin-left:-0.97em;
+}
+.square
+{
+    background: #fff;
+    height: 4em;
+    width: 4em;
+}
+.square2
+{
+    height: 4em;
+    padding: 0;
+    width: 4em;
+    background-color:lightblue;
+}
+.horiz_line
+{
+    background-color: #ccc;
+    height:0.4em;
+    width: 100%;
+    margin-top: -0.45em;
+    opacity:100;
+}
+.vert_line
+{
+    background-color: #ccc;
+    height: 70%;
+    width:0.4em;
+    margin-top: 0.4em;
+    margin-left: -1em;
+    padding-left: -7em;
+    opacity:100;
+}
+.vert_line2
+{
+    background-color: #ccc;
+    height: 70%;
+    width:0.4em;
+    margin-top: -3.47em;
+    margin-left: -1em;
+    padding-left: -7em;
+    opacity:100;
+}
+.blue_line
+{
+    background-color: blue;
+}
+.red_line
+{
+    background-color: red;
+}
+.green_line
+{
+    background-color: green;
+}
+.blue
+{
+    color:blue;
+}
+.red
+{
+    color:red;
+}
+.green
+{
+    color:green;
+}
+.title
+{
+    font-family: "Arial", sans-serif;
+}
+.btn_color
+{
+    background-color: blue;
+}
+.square3
+{
+    background: #fff;
+    height: 16em;
+    padding: 0;
+    width: 16em;
+}
+.background
+{
+    background-color:lightblue
+}

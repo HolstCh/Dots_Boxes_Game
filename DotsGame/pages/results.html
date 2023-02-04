@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Final Results</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="../styles/styles.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body style="background-color:lightblue" onload="writeFinalScore()">
+<div class="row">
+  <div class="col-12 text-center">
+    <br>
+    <h1 class="font-effect-outline title">Dots and Boxes</h1>
+    <h4 class="font-effect-outline title">Results</h4>
+  </div>
+  <br>
+</div>
+<br>
+<div class="row">
+  <div class="col-4"></div>
+  <div class="col-4 text-center square3">
+    <div class="mt-5 pt-2"><h6 id="blue2" class="blue">Blue: 0</h6></div>
+    <div><h6 id="red2" class="red"> Red: 0</h6></div>
+    <div><h6 id="green2" class="green">Green: 0</h6></div>
+    <div><h5 id="winner"></h5></div>
+  </div>
+  <div class="col-4"></div>
+</div>
+<div class="col-12 text-center">
+  <br>
+  <button type="button" style="background-color:blue" onclick="location.href='main.html'"
+          class="btn btn-primary">Play Again</button>
+</div>
+<script src="../scripts/scripts.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
