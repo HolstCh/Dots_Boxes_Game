@@ -1,2 +1,2 @@
 # Dots and Boxes 
-A three player game based influenced by Gamehttp://dotsandboxes.org/ and implemented with HTML/CSS/Javascript
+A three player game influenced by the classic dots and boxes game. The game was implemented with HTML/CSS/Javascript.
